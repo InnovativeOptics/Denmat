@@ -5,7 +5,7 @@ account: inva
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14087175
-bundleId: 9850369
+bundleId: 9922493
 url: https://inva.shinyapps.io/Denmat/
 version: 1
 asMultiple: FALSE
